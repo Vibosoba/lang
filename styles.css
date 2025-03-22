@@ -1,1 +1,1 @@
-
+.langs{position:fixed;top:0;right:10px;display:flex;gap:5px;z-index:9999}.langs button{background:#f1f8fe;color:#055cbe;border:solid 1px #055cbe;padding:2px 10px;cursor:pointer;font-size:14px;border-radius:5px}.langs button:hover{background:transparent}.langs button.active{background:#EDFFF4;font-weight:700;border:solid 2px}
